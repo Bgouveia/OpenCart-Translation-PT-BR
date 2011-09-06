@@ -3,6 +3,8 @@
 $_['heading_title']			= 'Administração';
 
 // Text
+$_['text_attribute']			= 'Atributos';
+$_['text_attribute_group']			= 'Grupos de Atributos';
 $_['text_backup']			= 'Backup/Restauração';
 $_['text_catalog']			= 'Catálogo';
 $_['text_category']			= 'Categorias';
@@ -29,6 +31,7 @@ $_['text_logout']			= 'Sair';
 $_['text_contact']			= 'Enviar Informativo';
 $_['text_manufacturer']		= 'Fabricantes';
 $_['text_module']			= 'Módulos';
+$_['text_option']			= 'Opção';
 $_['text_order']			= 'Vendas';
 $_['text_order_status']		= 'Situações de vendas';
 $_['text_opencart']			= 'Site oficial';

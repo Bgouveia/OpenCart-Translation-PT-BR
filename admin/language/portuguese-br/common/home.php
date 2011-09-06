@@ -6,6 +6,8 @@ $_['heading_title']					= 'Painel de Controle';
 $_['text_overview']					= 'Visão geral';
 $_['text_statistics']				= 'Estatísticas';
 $_['text_latest_10_orders']			= 'Últimas 10 vendas';
+$_['text_total_affiliate']				= 'Quantidade total de afiliados:';
+$_['text_total_affiliate_approval']				= 'Afiliados aguardando aprovação:';
 $_['text_total_sale']				= 'Valor total de vendas:';
 $_['text_total_sale_year']			= 'Valor total de vendas no ano:';
 $_['text_total_order']				= 'Quantidade total de vendas:';
@@ -24,6 +26,7 @@ $_['text_customer']					= 'Total de clientes';
 // Column 
 $_['column_order']					= 'Código da venda';
 $_['column_name']					= 'Nome do cliente';
+$_['column_customer']					= 'Cliente';
 $_['column_status']					= 'Situação';
 $_['column_date_added']				= 'Data da venda';
 $_['column_total']					= 'Total';
