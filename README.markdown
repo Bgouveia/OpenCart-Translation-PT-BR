@@ -11,12 +11,19 @@ Vá para a adminstração, clique em 'System / Localization / Languages', e em s
 Preencha os campos conforme abaixo:
 
 **Language name: Português (BR)**
+
     Code: pt-br
+
     Locale: pt_BR.UTF-8, pt_BR, UTF-8
+
     Image: br.png
+
     Directory: portuguese-br
+
     Filename: portuguese-br
+
     Status: Enabled
+
     Sort Order: 1
 
 
