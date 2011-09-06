@@ -8,9 +8,9 @@ Descompacte o arquivo baixado e mova os diretórios para a pasta raiz da sua ins
 
 Vá para a adminstração, clique em 'System / Localization / Languages', e em seguida clique em 'Inserir'.
 
-Preencha os campos conforme abaixo:
+**Preencha os campos conforme abaixo:**
 
-**Language name: Português (BR)**
+    Language name: Português (BR)
 
     Code: pt-br
 
