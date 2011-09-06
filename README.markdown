@@ -1,5 +1,5 @@
 ##OpenCart - Tradução para português do Brasil
-Tradução para o OpenCart, versão 1.5.1.2.
+Tradução para o OpenCart, versão 1.5.x. Última atualização (em 6 de set/2011) compatível com a versão 1.5.1.2.
 
 ## Instalação 
 Faça o download da tradução [AQUI](https://github.com/Bgouveia/OpenCart-Translation-PT-BR/zipball/master).
@@ -40,4 +40,5 @@ Descompacte o arquivo baixado e mova os diretórios para a pasta raiz da sua ins
 
 ## Créditos
 Tradução para a versão 1.4.9x feita por [Manoel Vidal](manoel.vidal@opencartbrasil.com.br)
+
 Atualização para a versão 1.5.1.2 feita por [Bruno Gouveia](https://github.com/Bgouveia/)
