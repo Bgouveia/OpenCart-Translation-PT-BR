@@ -14,6 +14,7 @@ $_['text_checkout'] = 'Finalizar';
 $_['text_keyword']  = 'palavra-chave';
 $_['text_advanced'] = 'Pesquisa avançada';
 $_['text_category'] = 'Todas as categorias';
+$_['text_wishlist']      = 'Lista de desejos';
 
 // Entry
 $_['entry_search']   = 'Pesquisa por:';

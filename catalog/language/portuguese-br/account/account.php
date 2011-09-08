@@ -13,4 +13,6 @@ $_['text_address']       = 'Alterar meus endereços';
 $_['text_history']       = 'Histórico de pedidos';
 $_['text_download']      = 'Downloads disponíveis';
 $_['text_newsletter']    = 'Inscrição no informativo';
+$_['text_wishlist']      = 'Lista de desejos';
+
 ?>

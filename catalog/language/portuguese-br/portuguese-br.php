@@ -19,9 +19,11 @@ $_['text_pagination']       = 'Exibindo de <strong>{start} a {end}</strong> do t
 $_['text_separator']        = ' &gt; ';
 
 // Buttons
-$_['button_continue']       = 'Continuar';
+$_['button_add_address']    = 'Adicionar endereço';
 $_['button_back']           = 'Voltar';
-$_['button_add_to_cart']    = 'Adicionar ao carrinho';
+$_['button_continue']       = 'Continuar';
+$_['button_cart']           = 'Comprar';
+$_['button_add_to_cart']    = 'Comprar';
 $_['button_add_address']    = 'Adicionar endereço';
 $_['button_new_address']    = 'Novo endereço';
 $_['button_change_address'] = 'Alterar endereço';
