@@ -18,6 +18,9 @@ $_['text_missing_orders']   = 'Pedidos perdidos';
 $_['text_wait']             = 'Aguarde!';
 
 // Column
+$_['column_customer']     = 'Cliente';
+$_['column_date_modified']= 'Modificado em';
+$_['column_order_id']       = 'ID do pedido';
 $_['column_order']          = 'Nº da venda';
 $_['column_name']           = 'Nome do cliente';
 $_['column_status']         = 'Situação';

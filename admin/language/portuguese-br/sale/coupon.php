@@ -8,6 +8,7 @@ $_['text_percent']        = 'Porcentagem';
 $_['text_amount']         = 'Valor fixo';
 
 // Column
+$_['column_order_id']     = 'ID do pedido';
 $_['column_name']         = 'Nome do cupom';
 $_['column_code']         = 'Código';
 $_['column_discount']     = 'Desconto';
@@ -15,6 +16,8 @@ $_['column_date_start']   = 'Data do início';
 $_['column_date_end']     = 'Data do fim';
 $_['column_status']       = 'Situação';
 $_['column_action']       = 'Ação';
+$_['column_customer']     = 'Cliente';
+$_['column_date_modified']= 'Modificado em';
 
 // Entry
 $_['entry_name']          = 'Nome do cupom:';
