@@ -1,6 +1,9 @@
 <?php
 // Heading
 $_['heading_title']           = 'Configurações';
+$_['column_name']             = 'Nome da loja';
+$_['column_url']              = 'Url da loja';
+$_['column_action']           = 'Ação';
 
 // Text
 $_['text_success']            = 'Configurações atualizadas com sucesso!';
